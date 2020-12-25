@@ -1,3 +1,12 @@
 # tip-calculator-modified-
 Author Burulsun Taalaibekova
-You can check out Scrrenshots zip file for the outputs' screenshots
+
+Initial state:
+![](initilaal.jpeg )
+
+If you pool the slider it will change its value from 15-100 and calculate the tip and total accordingly;
+![]( slider.jpeg )
+
+If you write the percentage on the empty field, it will assign the value of a tip percentage and will calculate the tip and total bill accordingly
+![](textInpput.jpeg )
+
